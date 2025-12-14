@@ -1537,7 +1537,11 @@ strong {
     }
 
     .header-cta .cta-text {
-        display: none;
+        display: inline;
+    }
+
+    .mobile-sticky-cta {
+        display: none !important;
     }
 
     .nav-toggle {
@@ -1578,11 +1582,7 @@ strong {
     }
 
     .mobile-sticky-cta {
-        display: block;
-    }
-
-    .footer {
-        padding-bottom: calc(var(--space-xl) + 80px);
+        display: none;
     }
 
     .hero-cta-group {
