@@ -323,7 +323,7 @@ strong {
 }
 
 .logo-img {
-    height: 60px;
+    height: 80px;
     width: auto;
 }
 
@@ -1507,7 +1507,7 @@ strong {
 /* Mobile */
 @media (max-width: 768px) {
     .logo-img {
-        height: 45px;
+        height: 55px;
     }
 
     .nav {
