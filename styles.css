@@ -1007,6 +1007,12 @@ strong {
     margin-bottom: var(--space-md);
 }
 
+.footer-logo-img {
+    height: 60px;
+    width: auto;
+    margin-bottom: var(--space-md);
+}
+
 .footer-brand p {
     color: rgba(255, 255, 255, 0.7);
     font-size: 0.9375rem;
